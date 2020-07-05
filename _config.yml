@@ -35,3 +35,7 @@ collections:
   pride-images:
     output: true
     permalink: /:collection/:name
+
+feed:
+  collections:
+    - pride-images
