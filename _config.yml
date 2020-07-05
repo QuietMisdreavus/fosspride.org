@@ -1,0 +1,37 @@
+# Site Build Settings
+
+# Jekyll-paginate-v2 configuration
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# jekyll-paginate configuration
+# paginator:
+#   per_page: 5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           pretty
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:              'FOSS Pride'
+description:        'FOSS software icons using LGBTQ+ pride flags'
+tagline:            'Add some pride to your FOSS'
+url:                'https://fosspride.org'
+author:             'QuietMisdreavus'
+
+collections:
+  pride-images:
+    output: true
+    permalink: /:collection/:name
