@@ -42,6 +42,6 @@ feed:
 
 exclude:
   - README.md
-  - LICENSE.md
+  - THEME-LICENSE.md
   - Gemfile
   - Gemfile.lock
