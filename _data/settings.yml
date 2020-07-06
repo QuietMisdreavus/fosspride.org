@@ -11,8 +11,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Back'
+  previous_page: 'More'
 
 post_date_prefix: 'Written on'
 
