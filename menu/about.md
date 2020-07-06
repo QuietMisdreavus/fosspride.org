@@ -1,18 +1,28 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About this collection
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+In the summer of 2020, as QuietMisdreavus was unemployed and self-quarantined during the COVID-19
+pandemic, she decided to try her hand at modifying graphics. Inspired by the trans-flag Vim sticker
+on her laptop, she decided to recreate that as well as several other variants using other LGBTQ+
+pride flags. From there the idea spread to other icons, and this site was born to host them all.
 
-### Getting Started
+Each software project in this collection has a "source files" archive that contains high-resolution
+versions of the logos, as well as the GIMP project file used to create the images. The full list can
+be accessed using the "Pride Images" link in the top menu. The files are distributed under the same
+license as their source icon.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+If you would like to support the project, feel free to purchase stickers or apparel from the [online
+store]!
 
-### Example Content
+[online store]: {{ site.data.settings.store_link }}
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+# About this site
 
-### Questions?
+This site is generated using [Jekyll], using a modified version of the [Lagrange] theme from Paul
+Le. It's hosted on <https://nearlyfreespeech.net>. The Git repository for the Jekyll source files are
+available at <https://github.com/QuietMisdreavus/fosspride.org>.
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+[Jekyll]: https://jekyllrb.com
+[Lagrange]: https://github.com/LeNPaul/Lagrange
