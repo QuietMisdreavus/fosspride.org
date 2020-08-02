@@ -34,7 +34,7 @@ author:             'QuietMisdreavus'
 collections:
   pride-images:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name/
 
 feed:
   collections:
