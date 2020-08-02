@@ -41,6 +41,7 @@ feed:
     - pride-images
 
 exclude:
+  - vendor/*
   - README.md
   - THEME-LICENSE.md
   - Gemfile
