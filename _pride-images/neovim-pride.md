@@ -8,7 +8,8 @@ source_files: "neovim pride.zip"
 
 Have you ever wanted your text editor to be a little more queer?
 
-This image set features the Neovim logo, in a combination of LGBTQ+ pride flags.
+This image set features the Neovim logo, in a combination of LGBTQ+ pride flags. The images are
+available both with and without the Neovim logotype.
 
 [Neovim] is developed by the [Neovim team], led by Justin M Keyes. The Neovim logo is created by
 Jason Long and licensed under the Creative Commons Attribution 3.0 Unported License.
